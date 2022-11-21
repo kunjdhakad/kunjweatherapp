@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kunjweatherapp/static/css/main.87e4ce07.css",
+    "main.js": "/kunjweatherapp/static/js/main.8cf20a48.js",
+    "static/js/787.1044a59b.chunk.js": "/kunjweatherapp/static/js/787.1044a59b.chunk.js",
+    "static/media/weather02-512.webp": "/kunjweatherapp/static/media/weather02-512.6daff330ca7e57180331.webp",
+    "index.html": "/kunjweatherapp/index.html",
+    "main.87e4ce07.css.map": "/kunjweatherapp/static/css/main.87e4ce07.css.map",
+    "main.8cf20a48.js.map": "/kunjweatherapp/static/js/main.8cf20a48.js.map",
+    "787.1044a59b.chunk.js.map": "/kunjweatherapp/static/js/787.1044a59b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87e4ce07.css",
+    "static/js/main.8cf20a48.js"
+  ]
+}
