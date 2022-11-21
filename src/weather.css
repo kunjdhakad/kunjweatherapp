@@ -1,0 +1,22 @@
+.weather-bp{
+    background:url(https://th.bing.com/th/id/R.0c75cfb96ec8dec51a51836d02bc38cf?rik=ZyLx6DekRpCiqA&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f07%2fWeather-Desktop-Picture.jpg&ehk=di0WfDJwu%2b77RhSlqdYV3GJWwnabD8X6lt5sN4fgIgU%3d&risl=&pid=ImgRaw&r=0) ;
+height: 50vh;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+.weather-bp{
+ color: azure;
+ font-size: large;
+ font-weight: 600;   
+}
+.weather-body{
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    
+}
+.logo{
+    height: 100px;
+}
